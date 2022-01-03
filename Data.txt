@@ -1,0 +1,10 @@
+Simple 423456 100
+Checking 881023 999
+Simple 435920 200
+Advanced 129999 405
+Credit 123321 -1000
+Advanced 122333 1000
+Credit 576452 -8000
+Checking 881234 5000
+Credit 598763 -10
+Credit 578824 -2000
